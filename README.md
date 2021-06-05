@@ -16,11 +16,9 @@
 <!-- - 📫 How to reach me: yaronhuang@foxmail.com -->
 - 🌱 I’m currently learning Web, Data Structure, AI
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=foryatto&show_icons=true" />
-</a>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foryatto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![foryatto's GitHub stats](https://github-readme-stats.vercel.app/api?username=foryatto&show_icons=true)
 
 
 
