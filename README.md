@@ -12,7 +12,7 @@
 
 ## 🧐 About
 
-- 👨‍💻 My blog: https://www.foryatto.com/
+- 👨‍💻 My Website: https://www.foryatto.com/
 <!-- - 📫 How to reach me: yaronhuang@foxmail.com -->
 - 🌱 I’m currently learning Web, Data Structure, AI
 
