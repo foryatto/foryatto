@@ -15,8 +15,8 @@
 - 👨‍💻 My website: https://www.foryatto.com/
 <!-- - 📫 How to reach me: yaronhuang@foxmail.com -->
 - 🌱 I’m currently learning Web, Algorithm, Data Structure, AI
-- 👨‍💻 Using language: Python, Java, C
-- 👨‍💻 Intend to learn: Go
+- 🔭 Using language: Python, Java, C
+- 🤔 Intend to learn: Go
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foryatto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
